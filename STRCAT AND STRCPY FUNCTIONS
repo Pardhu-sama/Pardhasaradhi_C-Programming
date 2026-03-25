@@ -3,7 +3,7 @@
 
 int main()
 {
-    char str1[100]="snehitha";
+    char str1[100]="pardhu";
     char str2[100]="addusumilli",
     scanf("%s", str1);
     scanf("%s", str2);
